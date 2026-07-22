@@ -43,5 +43,5 @@ Download the pre-trained model to make predictions without retraining:
 from keras.models import load_model
 
 # Load the complete model
-model = load_model('model_weights.keras')
+model = load_model('creditscoringnn_model_weights.keras')
 ```
