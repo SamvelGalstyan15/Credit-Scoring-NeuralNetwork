@@ -1,4 +1,4 @@
-# Credit Scoring Neural Network (`loanpaybacknn`)
+# Credit Scoring with Neural Network
 
 A deep learning project focused on credit scoring and predicting loan defaults using modern tabular data preprocessing pipelines and optimized Deep Neural Networks (DNN) in Keras/TensorFlow.
 
