@@ -37,11 +37,10 @@ The model exhibits exceptional stability, converging cleanly without jumping val
 
 Download the pre-trained model to make predictions without retraining:
 
-* [Download Pre-trained Model (creditscoringnn_model_weights.keras)](https://drive.google.com/file/d/1JShTDw3zc7AGHeRSTxR6N8LQtsp-J3mR/view?usp=drive_link)
+* [Download Pre-trained Model (model_weights.keras)](https://drive.google.com/file/d/1W-gsf-FTzNVT9vZ47NCccdl8H8L6QdoD/view?usp=drive_link)
 
 ```python
 from keras.models import load_model
 
-# Load the complete model
 model = load_model('creditscoringnn_model_weights.keras')
 ```
